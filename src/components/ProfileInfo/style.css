@@ -6,3 +6,14 @@
     margin-top: 50px;
     height: 30%;
 }
+
+.profileContainer {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(#1f1e33, #3a3952, #1f1e33);
+}
+
+.fullName, 
+.link {
+    color: white;
+}

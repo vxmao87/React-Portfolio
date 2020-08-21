@@ -1,0 +1,7 @@
+.jumbotron {
+    background-image: linear-gradient(#1f1e33, #3a3952, #1f1e33);
+}
+
+.jumbotron-heading {
+    color: white;
+}
