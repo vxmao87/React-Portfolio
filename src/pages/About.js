@@ -3,7 +3,9 @@ import AboutCard from "../components/AboutCard";
 
 function About() {
     return (
-        <AboutCard />
+        <div>
+            <AboutCard />
+        </div>
     );
 }
 
