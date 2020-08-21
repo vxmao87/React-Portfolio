@@ -1,5 +1,6 @@
 import React from 'react';
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
@@ -16,6 +17,7 @@ function App() {
         <Route path="/portfolio" component={Portfolio} />
         <Route path="/contact" component={Contact} />
       </Switch>
+      <Footer />
     </Router>
   );
 }

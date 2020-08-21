@@ -1,7 +1,12 @@
 import React from "react";
+import ProfileInfo from "../components/ProfileInfo";
 
 function Home() {
-    return null;
+    return (
+        <div>
+            <ProfileInfo />
+        </div>
+    );
 }
 
 export default Home;
