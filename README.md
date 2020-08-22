@@ -12,7 +12,7 @@
 
 ## Link
 
-Access my portfolio [here](https://vxmao87.github.io/Employee-Directory/).
+Access my portfolio [here](https://vxmao87.github.io/React-Portfolio/).
 
 ## Description
 
