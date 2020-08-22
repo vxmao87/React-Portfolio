@@ -18,7 +18,7 @@ function ProfileInfo() {
                     <p className="link">Full-Stack Web Developer</p>
                     <p className="link"><a href = "https://www.linkedin.com/in/vxmao87/">LinkedIn profile</a></p>
                     <p className="link"><a href = "https://github.com/vxmao87">GitHub profile</a></p>
-                    <p className="link"><a href = "https://drive.google.com/file/d/1EEulbjOveLZ-Ko-riILZJApfo8PawJ8j/view?usp=sharing">Resume</a></p>
+                    <p className="link"><a href = "https://drive.google.com/file/d/1GVk7kjMREX2ZqTm4E6hVnNEDM1ZJOQMy/view?usp=sharing">Resume</a></p>
                     <p className="link"><a href="mailto:vinhxmao87@gmail.com?Subject=Question" target="_top">Email</a></p>
                 </div>
             </div>
