@@ -1,3 +1,17 @@
-#aboutCard {
+.aboutCard {
     background-image: linear-gradient(#1f1e33, #3a3952, #1f1e33);
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    line-height: 60px;
+    background-color: #1f1e33;
+    margin-top: -25px;
+}
+
+h1, 
+.card-text {
+    color: white;
 }
