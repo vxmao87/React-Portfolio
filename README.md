@@ -32,7 +32,7 @@ The overall design uses the following:
 
 ## Future Development
 
-* Add functionality to Contact page to allow the user to send emails
+* Rework "About" section
 
 ## Questions
 

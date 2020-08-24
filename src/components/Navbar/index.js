@@ -19,9 +19,6 @@ function Navbar() {
                     <li className="nav-item">
                         <a className="nav-link" href={process.env.PUBLIC_URL + "/portfolio"}>Portfolio</a>
                     </li>
-                    <li className="nav-item">
-                        <a className="nav-link" href={process.env.PUBLIC_URL + "/contact"}>Contact</a>
-                    </li>
                 </ul>
             </div>
         </nav>
