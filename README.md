@@ -16,7 +16,7 @@ Access my portfolio [here](https://vxmao87.github.io/React-Portfolio/).
 
 ## Description
 
-A recreation of my previous Bootstrap portfolio using React.
+A recreation of my previous Bootstrap portfolio using React. The website showcases my works from the UW Coding Bootcamp 2020, and will be the platform for any future projects I work on.
 
 ![Image](public/assets/images/portfolio1.png)
 
