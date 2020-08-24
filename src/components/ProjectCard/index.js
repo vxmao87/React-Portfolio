@@ -17,10 +17,10 @@ function ProjectCard(props) {
                     <div className="d-flex justify-content-between align-items-center">
                         <div className="btn-group">
                             {props.appLink ? (
-                                <a className="btn btn-sm btn-outline-secondary" href={props.appLink}>App</a>  
+                                <a className="btn btn-sm btn-outline-secondary" href={props.appLink} target="_blank" rel="noopener noreferrer">App</a>  
                                 ) : 
                                 <div></div>}
-                            <a className="btn btn-sm btn-outline-secondary" href={props.githubLink}>GitHub</a>
+                            <a className="btn btn-sm btn-outline-secondary" href={props.githubLink} target="_blank" rel="noopener noreferrer">GitHub</a>
                         </div>
                     </div>
                 </div>
