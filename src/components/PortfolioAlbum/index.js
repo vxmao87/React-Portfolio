@@ -17,7 +17,7 @@ function PortfolioAlbum() {
             <div className="row">
                 <ProjectCard
                      title="Treehouse"
-                     description="Group collaboration project: search for your favorite events and get artist info!"
+                     description="Group collaboration project: search for your favorite events and get artist info! Utilizes HTML, CSS, JavaScript, jQuery, AJAX."
                      src={treehouse}
                      alt="treehouse"
                      appLink="https://gidmp.github.io/Treehouse/"
@@ -25,7 +25,7 @@ function PortfolioAlbum() {
                 />
                 <ProjectCard
                      title="tinylearn"
-                     description="Group collaboration project: Learn about a random subject! No need to know what to search for!"
+                     description="Group collaboration project: Learn about a random subject! No need to know what to search for! Utilizes MVC, Sequelize, Passport."
                      src={tinylearn}
                      alt="tinylearn"
                      appLink="https://young-retreat-53983.herokuapp.com/"
@@ -33,7 +33,7 @@ function PortfolioAlbum() {
                 />
                 <ProjectCard
                      title="Better Earth"
-                     description="Group collaboration project: Find the best eco-friendly alternatives and calculate your carbon footprint!"
+                     description="Group collaboration project: Find the best eco-friendly alternatives and calculate your carbon footprint! Utilizes React, MongoDB, Mongoose."
                      src={betterEarth}
                      alt="better earth"
                      appLink="https://sheltered-sea-24671.herokuapp.com/"
@@ -41,7 +41,7 @@ function PortfolioAlbum() {
                 />
                 <ProjectCard
                      title="Employee Directory"
-                     description="View up to 200 employees and their information! You can also search and sort by name!"
+                     description="View up to 200 employees and their information! You can also search and sort by name! Utilizes React, jQuery."
                      src={employeeDirectory}
                      alt="employee directory"
                      appLink="https://vxmao87.github.io/Employee-Directory/"
@@ -49,14 +49,14 @@ function PortfolioAlbum() {
                 />
                 <ProjectCard
                      title="Employee Summary"
-                     description="A Terminal-based app where you can create an easily readable webpage of your employees!"
+                     description="A Terminal-based app where you can create an easily readable webpage of your employees! Utilizes Node, JavaScript."
                      src={employeeSummary}
                      alt="employee summary"
                      githubLink="https://github.com/vxmao87/employee-summary"
                 />
                 <ProjectCard
                      title="Burger Logger"
-                     description="A simple application utilizing the MVC method of organizing code!"
+                     description="A simple application utilizing the MVC method of organizing code! Utilizes Handlebars.js."
                      src={burgerLog}
                      alt="burger logger"
                      appLink="https://mysterious-coast-63282.herokuapp.com/"
@@ -64,7 +64,7 @@ function PortfolioAlbum() {
                 />
                 <ProjectCard
                      title="Budget Tracker"
-                     description="A budget-tracking app with the functionality to work both online and offline!"
+                     description="A budget-tracking app with the functionality to work both online and offline! Utilizes manifests, service workers, Node."
                      src={budgetTrack}
                      alt="budget tracker"
                      appLink="https://still-savannah-20478.herokuapp.com/"
@@ -72,7 +72,7 @@ function PortfolioAlbum() {
                 />
                 <ProjectCard
                      title="Weather Dashboard"
-                     description="Check the weather at any city before you head out for your next trip!"
+                     description="Check the weather at any city before you head out for your next trip! Utilizes AJAX."
                      src={weatherDash}
                      alt="weather dashboard"
                      appLink="https://vxmao87.github.io/weather-dashboard/"
@@ -80,7 +80,7 @@ function PortfolioAlbum() {
                 />
                 <ProjectCard
                      title="Note Taker"
-                     description="Keep track of all of your daily tasks!"
+                     description="Keep track of all of your daily tasks! Utilizes Express, CRUD."
                      src={noteTaker}
                      alt="note taker"
                      appLink="https://gentle-plateau-55280.herokuapp.com/"
