@@ -29,7 +29,7 @@ function PortfolioAlbum() {
                      src={tinylearn}
                      alt="tinylearn"
                      appLink="https://young-retreat-53983.herokuapp.com/"
-                     githubLink="https://github.com/vxmao87/project-2"
+                     githubLink="https://github.com/vxmao87/tinylearn"
                 />
                 <ProjectCard
                      title="Better Earth"
