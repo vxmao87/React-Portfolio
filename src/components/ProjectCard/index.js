@@ -14,6 +14,8 @@ function ProjectCard(props) {
             <div className="card-body">
                 <h5 className="project-name">{props.title}</h5>
                 <p className="card-text">{props.description}</p>
+                <p></p>
+                <p className="technologies">Technologies used: {props.technologies}</p>
                     <div className="d-flex justify-content-between align-items-center">
                         <div className="btn-group">
                             {props.appLink ? (
