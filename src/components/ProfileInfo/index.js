@@ -16,6 +16,7 @@ function ProfileInfo() {
                     <h2 className="fullName">Vinh Xiu Mao</h2>
                     <p className="link">University of Washington 2016 Graduate</p>
                     <p className="link">Full-Stack Web Developer</p>
+                    <p className="profile-technologies">HTML, CSS, JavaScript, AJAX, jQuery, Web and Third-Party APIs, MySQL, MVC, Handlebars.js, MERN stack (MongoDB, Express, React, Node)</p>
                     <p className="link"><a href = "https://www.linkedin.com/in/vxmao87/" target="_blank" rel="noopener noreferrer">LinkedIn profile</a></p>
                     <p className="link"><a href = "https://github.com/vxmao87" target="_blank" rel="noopener noreferrer">GitHub profile</a></p>
                     <p className="link"><a href = "https://drive.google.com/file/d/1GVk7kjMREX2ZqTm4E6hVnNEDM1ZJOQMy/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a></p>
