@@ -40,7 +40,7 @@ function PortfolioAlbum() {
                      alt="better earth"
                      technologies="HTML, CSS, JavaScript, React, MongoDB, Mongoose"
                      appLink="https://sheltered-sea-24671.herokuapp.com/"
-                     githubLink="https://github.com/avaarm/project-3"
+                     githubLink="https://github.com/avaarm/Better-Earth"
                 />
                 <ProjectCard
                      title="Employee Directory"
